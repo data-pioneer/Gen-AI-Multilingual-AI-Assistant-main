@@ -15,9 +15,9 @@ This repository implements a multilingual conversational AI assistant leveraging
   
 ## Project Structure:
 
-app.py: Contains Streamlit app code for building the user interface and interaction logic.
-src/helper.py: Facilitates communication with the Gemini LLM.
-requirements.txt: Lists dependencies required to run the project.
+- app.py: Contains Streamlit app code for building the user interface and interaction logic.
+- src/helper.py: Facilitates communication with the Gemini LLM.
+- requirements.txt: Lists dependencies required to run the project.
 
 ## Flowchart of Project Deployement
 
