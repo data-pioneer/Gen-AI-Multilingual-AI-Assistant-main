@@ -23,16 +23,6 @@ This repository implements a multilingual conversational AI assistant leveraging
 
 ![GenAI_Project](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main/assets/33811437/097e5e20-e276-436d-ab1a-ce7bc842c831)
 
-# Create GOOGLE_API_KEY from bellow link:
-https://deepmind.google/technologies/gemini/#introduction
-
-### Create a `.env` file in the root directory and add your GOOGLE_API_KEY credentials as follows:
-
-```ini
-GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-```
-
-
 # How to run?
 ### STEPS:
 
@@ -43,8 +33,7 @@ conda create -n multilingual python=3.9 -y
 ```
 
 ```bash
-conda activate multilingual
-
+conda activate llmapp
 ```
 
 
