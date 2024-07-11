@@ -1,1 +1,16 @@
-pip install python 
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+
+# python SDK for Gemini API is avai in google-generativeai package
+# pip insatll -q -U google-generativeai
+
+# if pyaudio install gives error, run below lines
+     # sudo apt install portaudio19-dev
+     # python3 -m  pip install PyAudio
+
+-e .
