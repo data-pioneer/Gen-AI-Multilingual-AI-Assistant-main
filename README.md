@@ -30,8 +30,8 @@ This repository implements a multilingual conversational AI assistant leveraging
 https://deepmind.google/technologies/gemini/#introduction
 
 
-Create .env file in the root directory and add your GOOGLE_API_KEY credentials as given bellow
-GOOGLE_API_KEY = "------------------"
+### Create .env file in the root directory and add your GOOGLE_API_KEY credentials as given bellow
+### GOOGLE_API_KEY = "------------------"
 
 ### STEP 02- Create a conda environment after opening the repository
 
@@ -94,12 +94,12 @@ sudo apt install python3-pip
 pip3 install -r requirements.txt
 ```
 
-#Temporary running
+# Temporary running
 ```bash
 python3 -m streamlit run app.py
 ```
 
-#Permanent running
+# Permanent running
 ```bash
 nohup python3 -m streamlit run app.py
 ```
